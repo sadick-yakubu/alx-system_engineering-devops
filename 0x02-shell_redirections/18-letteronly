@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "^[:aphha:]" /etc/ssh/sshd_config
