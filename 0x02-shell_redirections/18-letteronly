@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^[[:aphha:]]" /etc/ssh/sshd_config
+egrep ^[[:aphha:]] /etc/ssh/sshd_config
